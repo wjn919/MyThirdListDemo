@@ -7,7 +7,7 @@
 
 ### apk下载
 
-   - [apk 下载](https://github.com/wjn919/MyMaterialDemo/raw/master//screenshot/MyListDemo.apk)
+   - [apk 下载](https://github.com/wjn919/MyMaterialDemo/raw/master/screenshot/MyListDemo.apk)
 
 ### 介绍 
 
